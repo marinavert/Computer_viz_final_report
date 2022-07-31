@@ -1,6 +1,13 @@
 # Computer_viz_final_report
 This is the repository for the final report of the course : Computer Visualization
 
+## Pre requisite
+python 3.9.12
+dash 2.6.0
+pandas 1.4.2
+plotly 5.7.0
+numpy 1.22.1
+
 # How to access the dash interactive web application
 
 - Change the path of the csv_file
